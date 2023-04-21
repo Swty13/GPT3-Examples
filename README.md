@@ -18,7 +18,7 @@ Once the app is running, you can use it to generate text in the following ways:
 
 * Enter a prompt manually: Simply enter a prompt in the text box provided and click the "Submit" button to generate text based on that prompt.
 * Switch between streaming and non-streaming modes: Use the checkbox to switch between `Streaming` and `Non-streaming` modes. In streaming mode, the app generates text one sentence at a time, allowing the user to see the output as it is generated.
-
+![Alt Text](https://github.com/Swty13/GPT3-Examples/blob/main/streamlit_gif.gif)
 
 2. **demos/:** This directory contains interactive demos of GPT-3, such as how to use GPT-3 on your system.
 3. **experiments/:** This directory contains experimental code and scripts that can be used to test and evaluate different configurations of GPT-3, or to compare the performance of GPT-3 to other language models.
